@@ -1,0 +1,285 @@
+body{
+    background-image: url("kz,png");
+overflow-x: hidden;
+}
+nav ul li {
+    display: inline-block;
+    margin:0 17px;
+padding: 0 8px;
+font-family: sans-serif;
+font-size: small;
+
+}
+ li img{
+ width: 130px;
+ height: 60px;
+}
+nav{
+    width: 100%;
+position: absolute;
+top:0px;
+right:0 ;
+}
+nav li a{
+    text-decoration: none;
+    color:rgb(2, 1, 1);
+    font-weight: 500px;
+
+}
+nav a{
+    border-bottom: 3px solid transparent;
+}
+nav a:hover{
+border-bottom: 3px solid blueviolet;
+    
+}
+.content {
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+}
+ .hi{
+    position: absolute;
+    left: 50%;
+    top: 6%;
+    transform: -50% -50%;
+    margin-top: 350px;
+    margin-left: 120px;
+ }
+ .text{
+    position: absolute;
+    left: 20%;
+    top: 25%;
+    margin-top: 90px;
+ }
+.hello{
+    position: absolute;
+    left: 50%;
+    top: 5%;
+    transform: -50% -50%;
+    margin-left: 90px;
+    margin-top: 10px;
+}
+.what{
+    position: absolute;
+    left: 50%;
+    
+    transform: -50% -50%;
+    margin-left: 290px;
+    margin-top: 75px;
+}
+.lol{
+    size: 10%;
+height: 790px;
+width: 1510px;
+}
+.wave{
+    position: absolute;
+    left: 2%;
+    top: 5%;
+    transform: -50% -50%;
+ margin-top: 610px;
+ margin-right: 1900px;
+}
+.koko{
+margin-right: 8px;
+font-size: xx-large;
+font-weight: 700;
+font-family: sans-serif;
+color: rgb(90, 89, 89);
+letter-spacing: 1px;
+}
+.highlight-word-color{
+    color: rgb(102, 52, 148);
+}
+p{
+    font-size: large;
+    letter-spacing: 1px;
+    color: rgba(128, 128, 128, 0.73);
+   
+}
+
+.serves{
+display: flex;
+justify-content: space-around;
+position: absolute;
+
+}
+.c{
+display: flex;
+justify-content: center;
+margin-top: 90px;
+position: relative;
+}
+.b{
+   margin-top: 170px;
+   margin-left: 190px;
+}
+.a{
+    margin-top: 334px;
+    margin-left: 100px;
+    
+}
+.d{
+    margin-top: 610px;
+    margin-left: 100px;
+}
+h3{
+    color: rgba(53, 51, 51, 0.844);
+    font-family: sans-serif;
+
+}
+h4{
+    color: rgba(0, 0, 0, 0.448);
+    font-family: sans-serif;
+    font-size: medium;
+    font-weight: 300;
+}
+.s{
+    margin-left:100px ;
+    position: relative;
+}
+h6{
+    font-size: medium;
+    color:rgb(233, 59, 59) ;
+    position: absolute;
+     margin-top: 1px;
+}
+h5{
+    font-size: x-large;
+    position: absolute;
+}
+.shoes{
+    position: absolute;
+    top: 45%;
+    right: 84%;
+    transform: translate(-50%, -50%);
+    color: rgb(255, 255, 255);
+}
+.tt{
+    position: absolute;
+    top: 49%;
+    right: 75%;
+    bottom: 100%;
+    transform: translate(-50%, -50%);
+    letter-spacing: 1px;
+    font-size: xx-large;
+    font-family: sans-serif;
+    font-weight: 400;
+    color: rgb(255, 255, 255);
+}
+.hope{
+    margin-top: 100px;
+    justify-content: center;
+    display: flex;
+}
+text{
+    justify-content: center;
+position: absolute;
+margin-left: 186px;
+font-size:large;
+margin-top: 445px;
+font-weight: 600;
+}
+
+font{
+    justify-content: center;
+    position: absolute;
+    font-size: medium;
+   font-family: sans-serif;
+  font-weight: 500;
+   letter-spacing: 1px;
+margin-top: 490px;
+margin-left: 185px;
+}
+.bbpb{
+    justify-content: center;
+    background-size: 7%;
+    height: 70px; ;
+    width: 90px;
+    background: border-box;
+
+}
+.yyy{
+margin-top: 80px;
+margin-left: 700px;
+}
+.iii{
+    background-color: rgb(255, 255, 255);
+    color: rgb(0, 0, 0);
+    border-radius: 16px;
+    padding: 16px 33px;
+    position: absolute;
+    margin-top:362px ;
+    margin-left: 300px;
+}
+.popopo{
+    background-color: rgb(255, 255, 255);
+    color: rgb(0, 0, 0);
+    border-radius: 16px;
+    padding: 16px 33px;
+    position: absolute;
+    margin-top:361px ;
+    margin-left: 140px;
+}
+.loo{
+    margin-top:450px ;
+    position: absolute;
+    margin-left: 140px;
+}
+.soo{
+    margin-top:450px ;
+    position: absolute;
+    margin-left: 190px;
+}
+.hoo{
+    margin-top:450px ;
+    position: absolute;
+    margin-left: 230px;
+}
+  
+ ul li {
+ margin: 0 17px;
+display: inline-block;
+
+}
+.ctl{
+    position: absolute;
+    margin-top: 510px;
+    margin-left: 83px;
+    text-decoration: none;
+}
+ul li {
+    text-decoration: none;
+color: white;
+font-family: sans-serif;
+font-size: medium;
+font-weight: 500;
+}
+nav{
+    display: flex;
+    justify-content: space-between;
+}
+.default {
+    margin-top: 30px;
+    margin-left: 1300px;
+    
+    border-radius: 20px;
+    position: absolute;
+    background-color: #ffffff;
+}  
+.default:hover {
+    background: rgb(185, 183, 183);
+}
+.btn {
+    border: none;
+    color: rgb(45, 44, 44);
+    padding: 14px 39px;
+    font-size: 14px;
+    cursor: pointer;
+font-family: sans-serif;    
+}
+main{
+    min-height: 100vh;
+    background-image: url("blue_bg.png");
+}
